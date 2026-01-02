@@ -1,2 +1,2 @@
 # dataramen-template
-Opensource Public Data Tool
+DataRamen is an opensource data management tool that democritizes publicly available datasources.
